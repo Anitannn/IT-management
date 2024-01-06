@@ -1,0 +1,45 @@
+Profil:
+•	Gesamt: 10+ Jahre Berufserfahrung in der Software-Entwicklung, insbesondere .Net (C#)
+•	8+ Jahre Berufserfahrung in Windows Forms und WPF-Anwendungen (C#)
+•	2+ Jahre Berufserfahrung in der Web-Entwicklung (Frontend: Angular, Ionic, HTML5, Aurelia, Java Script/TypeScript, CSS, Backend: C#)
+•	Leidenschaft für Clean Code und stabile Softwarearchitektur
+•	Fundiertes Wissen über den gesamten agilen SW-Lebenszyklus
+
+Weiterbildungen:
+•	Udemy
+o	„Iconic – Build iOS, Android & Web Apps with Iconic & Angular“
+o	„Agile PM 101: Learn the truth about Agile vs. Waterfall“
+o	7 Creative Leadership skills that drive changes“
+•	Ausbildung der Ausbilder (AdA)
+
+Software-Kenntnisse:
+•	Programmiersprachen: C# (10+ Jahre)
+•	.Net Anwendungen: ASP.Net Single Page (Web API 2), Windows Forms, WPF
+•	Web UI Frameworks: Angular, Aurelia, Iconic, HTML, JavaScript/TypeScript, CSS
+•	Datenbanken: SQL
+•	Agiles Vorgehen: Scrum, Kanban
+
+Sprachkenntnisse:
+•	Englisch: Fließend
+•	Deutsch: Muttersprache
+
+Beruflicher Werdegang:
+10/2023-heute: OptWare GmbH, Regensburg
+		Senior-Full-Stack-Developer
+	Weiterentwicklung einer WPF-Anwendung (C#, REST)
+02/2023-08/2023: Freelancer (Sustainable IT Solutions Roth Sync/Sync Different)
+		Enterpreneur, Senior-Full-Stack-Developer
+	Entwicklung einer SaaS Plattform zur Verteilung von Informationen, insbesondere Kalendereinträgen (C#, Angular, Iconic, REST)
+06/2020-02/2023: Netto Marken-Discount Stiftung & Co-KG, Ponholz
+		Senior-Full-Stack-Developer, Bereich:Produktentwicklung
+		Umsetzung von ASP. Net Single Page Anwendungen (MS Azure, C#, Aurelia, 
+		Typescript, HTML)
+12/2012-05/2020: Bertrandt Technologie GmbH/Bertrandt Ingenieurbüro GmbH, Regensburg
+		Techn. Projektleitung, Umsetzung einer Web-Anwendung auf Tablets zur visuellen 
+		Beim Einfahren auf Hebebühnenplätze (PHP, HTML, Angular, Javascript)
+03/2011-10/2012: Informatik (Master) an der Hochschule für angewandte Wissenschaften in 
+		München 
+06/2010-03/2011: Freiwilliges Praktikum, Continental Automotive GmbH Regensburg
+		Software Developer, Bereich: ADAS
+10/2005-03/2010: Mathematik (Diplom) an der Hochschule für angewandte Wissenschaften in 
+		Regensburg (Schwerpunkt: Informationstechnologie)

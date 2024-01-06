@@ -1,0 +1,27 @@
+•	Gesamt: 8+ Jahre Berufserfahrung in der Softwareentwicklung und Qualitätssicherung 
+•	5+ Jahre Erfahrung in C#-Programmierung im OnPremise-Bereich 
+•	3+ Jahre Erfahrung in der Online-Softwareentwicklung mit Java 
+•	Umfassende Kenntnisse in der Konzeption und Umsetzung von Qualitätssicherungsmaßnahmen 
+•	Aktive Beteiligung an agilen Entwicklungsteams
+
+Weiterbildungen: 
+•	Coursera 
+•	„Advanced Topics in C#“ 
+•	„Web Development with Java“ 
+•	„Agile Quality Assurance“
+
+Software-Kenntnisse: 
+•	Programmiersprachen: C# (5+ Jahre), Java (3+ Jahre) 
+•	.Net Anwendungen: Windows Forms 
+•	Web UI Frameworks: Java 
+•	Agiles Vorgehen: Scrum
+
+Sprachkenntnisse: 
+•	Englisch: Verhandlungssicher 
+•	Deutsch: Fließend
+•	Türkisch: Muttersprche
+
+Beruflicher Werdegang: 
+09/2022-heute: DigitalTech Solutions AG, Frankfurt Senior Softwareentwickler; Verantwortlich für die Konzeption und Umsetzung von Qualitätssicherungsmaßnahmen (C#, Java) 
+05/2019-08/2022: CodeMasters GmbH, Düsseldorf Senior Software Developer; Entwicklung von OnPremise-Softwarelösungen (C#, Windows Forms) 
+11/2015-04/2019: InnovateIT Labs, Stuttgart Softwareentwickler; Programmierung von C#-Anwendungen (WPF, Windows Forms)
