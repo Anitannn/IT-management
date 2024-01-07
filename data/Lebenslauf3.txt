@@ -1,0 +1,40 @@
+Berufliches Profil:
+•	Berufsziel: Softwareentwickler für hybride Qualitätssicherung (C#, Java) bei DATEV
+•	Berufserfahrung: [Angabe der Jahre Berufserfahrung]
+•	Schwerpunkte: Qualitätssicherung, Softwareentwicklung, Konzeption
+Ausbildung:
+•	Abschluss: [Höchster erzielter Abschluss]
+•	Studiengang/Fachrichtung: Informatik
+•	Institution: [Name der Institution]
+•	Abschlussdatum: [Datum des Abschlusses]
+Praktische Erfahrungen:
+•	10/2022-heute: DigitalTech Solutions AG, Frankfurt
+o	Senior Softwareentwickler
+	Konzeption und Umsetzung von Qualitätssicherungsmaßnahmen in hybriden Szenarien (C#, Java)
+	Beratung von Entwicklungsteams bei der Implementierung von Qualitätssicherungsmaßnahmen
+	Beobachtung und Verifizierung von Testmethoden und Werkzeugen für DATEV
+•	05/2019-08/2022: CodeMasters GmbH, Düsseldorf
+o	Senior Software Developer
+	Entwicklung von OnPremise-Softwarelösungen (C#, Windows Forms)
+	Beteiligung an agilen Entwicklungsteams
+•	11/2015-04/2019: InnovateIT Labs, Stuttgart
+o	Softwareentwickler
+	Programmierung von C#-Anwendungen (WPF, Windows Forms)
+Weiterbildungen:
+•	Coursera
+o	„Advanced Topics in C#“
+o	„Web Development with Java“
+o	„Agile Quality Assurance“
+Sprachkenntnisse:
+•	Englisch: Verhandlungssicher
+•	Deutsch: Muttersprache
+EDV-Kenntnisse:
+•	Programmiersprachen: C# (10+ Jahre), Java (3+ Jahre)
+•	.Net Anwendungen: Windows Forms
+•	Web UI Frameworks: Java
+•	Datenbanken: SQL
+•	Agiles Vorgehen: Scrum, Kanban
+Soft Skills:
+•	Kommunikationsstark
+•	Erfahrung in kollegialer Beratung
+•	Eigeninitiative, Nachhaltigkeit, ausgeprägter Forscherdrang
