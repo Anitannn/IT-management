@@ -1,0 +1,27 @@
+Softwareentwickler hybride Qualitätssicherung (C#, Java) (m/w/d)
+Das ist das Arbeitsumfeld:
+Als Softwareentwickler:in für hybride Qualitätssicherung beraten Sie agile Entwicklungsteams zu hybriden Themenstellungen und tragen zur Professionalisierung der Qualitätssicherung bei DATEV bei.
+Das sind die Aufgaben:
+	•	Sie erstellen Grundkonzepte für Tests in hybriden Szenarien und beraten dazu Entwicklungsteams.
+	•	Sie sind zentrale/r Ansprechpartner:in für die Aufnahme, Bewertung und Konsolidierung von Anforderungen zu hybriden Themenstellungen der QS-Infrastruktur.
+	•	Sie beraten und befähigen agile Entwicklungsteams bei der Konzeptionierung, Implementierung und Professionalisierung von Qualitätssicherungsmaßnahmen.
+	•	Sie beobachten den Markt nach Testmethoden und Werkzeugen und verifizieren diese für einen möglichen Einsatz bei DATEV.
+	•	Sie fördern eine kontinuierliche Qualitätssicherung unter Beachtung des Shift-Left-Ansatzes.
+Das suchen wir:
+Erforderliche Skills:
+	•	Sie haben einen Hochschulabschluss im Bereich Informatik oder eine vergleichbare Qualifikation.
+	•	Sie bringen neben Softwareentwicklungskenntnissen im OnPremise-Bereich (C# Kenntnisse) idealerweise auch Erfahrung in der Online-Softwareentwicklung (Java Kenntnisse) mit.
+	•	Sie verfügen über gute konzeptionelle Fähigkeiten und kennen sich mit den gängigen QS-Methoden in der Softwareentwicklung aus.
+	•	Sie sind kommunikationsstark und haben bereits Erfahrung in kollegialer Beratung gesammelt.
+	•	Sie zeichnen sich durch Eigeninitiative, Nachhaltigkeit und einen ausgeprägten Forscherdrang aus.
+Erlernbare Skills:
+	•	Sie erweitern Ihre guten Kenntnisse von On-Premise- und Online-Test-Methoden auf hybride Qualitätssicherung.
+	•	Sie erlernen den Technologietransfer durch Shift-Left effizient zu unterstützen.
+Das bieten wir:
+	•	"Homeoffice" im Sinne einer mobilen, ortsunabhängigen Arbeit innerhalb Deutschlands inkl. der dazugehörigen technischen Ausstattung
+	•	Flexible Arbeitszeit inkl. der Möglichkeit zum Freizeitausgleich für eine gute Work-Life-Balance
+	•	Großes Angebot an fachlichen und persönlichen Weiterbildungen innerhalb und außerhalb der Arbeitszeit sowie zahlreiche interne Communities zum Vernetzen und gegenseitigen Lernen
+	•	Und vieles mehr… 
+Das sind wir:
+DATEV ist mehr als ein grünes Rechteck. Wir sind einer der größten Software- und IT-Dienstleister Europas mit Hauptsitz in Nürnberg. Mehr als 8.800 Mitarbeitende geben alles, um die Digitalisierung der Geschäftsprozesse unserer über 600.000 Kund:innen voranzutreiben. Diese vertrauen auf unsere PC- und Cloud-Lösungen sowie mobilen Apps und rechnen damit beispielsweise monatlich rund 14 Millionen Lohnabrechnungen ab. Als Genossenschaft fördern wir das Miteinander. „Fortschritt treiben. Zukunft gestalten. Gemeinsam Erfolg haben“ steht in unserer Zusammenarbeit stets im Vordergrund. Wir vereinen Beständigkeit mit Innovationskraft. Diversity, Equity und Inclusion sind für uns die essenzielle Grundlage, damit alle gleichberechtigt am Arbeitsleben teilhaben können. Dafür steht DATEV jeden Tag ein. #WirsindDATEV!
+Wir freuen uns auf die Bewerbung über unser Karriereportal und auf ein Kennenlernen.
