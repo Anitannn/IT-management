@@ -1,0 +1,30 @@
+Software Developer Hybrid Quality Assurance (C#, Java) (m/f/d)
+This is the working environment:
+As a software developer for hybrid quality assurance, you will advise agile development teams on hybrid topics and contribute to the professionalization of quality assurance at DATEV.
+These are the tasks:
+	- You will create basic concepts for tests in hybrid scenarios and advise development teams on this.
+	- You are the central contact person for the recording, evaluation and consolidation of requirements for hybrid topics of the QA infrastructure.
+	- You will advise and enable agile development teams in the conception, implementation and professionalization of quality assurance measures.
+	- You will monitor the market for test methods and tools and verify them for possible use at DATEV.
+	- You will promote continuous quality assurance in compliance with the shift-left approach.
+
+What we are looking for:
+Required skills:
+	- You have a university degree in computer science or a comparable qualification.
+	- In addition to software development knowledge in the on-premise area (C# knowledge), you ideally also have experience in online software development (Java knowledge).
+	- You have good conceptual skills and are familiar with common QA methods in software development.
+	- You are a strong communicator and have already gained experience in collegial consulting.
+	- You are characterized by initiative, sustainability and a strong thirst for research.
+Skills that can be learned:
+	- You will extend your good knowledge of on-premise and online testing methods to hybrid quality assurance.
+	- You will learn to efficiently support technology transfer through shift-left.
+What we offer:
+	- "Home office" in the sense of mobile, location-independent work within Germany, including the associated technical equipment
+	- Flexible working hours including the possibility of compensatory time off for a good work-life balance
+	- Wide range of professional and personal training opportunities both during and outside working hours, as well as numerous internal communities for networking and mutual learning
+	- And much more... 
+
+This is us:
+DATEV is more than just a green rectangle. We are one of the largest software and IT service providers in Europe, headquartered in Nuremberg. More than 8,800 employees give their all to drive forward the digitalization of the business processes of our more than 600,000 customers. They rely on our PC and cloud solutions as well as mobile apps and use them to process around 14 million payslips every month, for example. As a cooperative, we promote cooperation. "Driving progress. Shaping the future. Achieving success together" is always at the forefront of our cooperation. We combine consistency with innovative strength. Diversity, equity and inclusion are the essential basis for us so that everyone can participate equally in working life. DATEV stands up for this every day. #WeareDATEV!
+We look forward to receiving your application via our career portal and getting to know you.
+
